@@ -1,0 +1,5 @@
+#!/bin/bash
+
+find resource_packs -type d -depth 1 -execdir sh -c 'cd ./$1 && zip -r ../../$1.mcpack *' _ {} \;
+
+zip matthewtodd.mcaddon *.mcpack
