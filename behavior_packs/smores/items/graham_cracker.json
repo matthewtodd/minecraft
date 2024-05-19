@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "matthewtodd:graham_cracker",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:max_stack_size": 16,
+      "minecraft:icon": {
+        "texture": "matthewtodd:graham_cracker"
+      },
+      "minecraft:display_name": {
+        "value": "Graham Cracker"
+      },
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation_modifier": "good"
+      }
+    }
+  }
+}

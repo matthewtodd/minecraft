@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "S'mores Behavior Pack",
+    "name": "S'mores Behavior Pack",
+    "uuid": "b4995b81-7264-4814-a414-e6ea6df8f558",
+    "version": [1, 0, 1],
+    "min_engine_version": [1, 20, 30]
+  },
+  "modules": [
+    {
+      "description": "S'mores Behavior Pack",
+      "type": "data",
+      "uuid": "85bc5319-be58-47bb-ae39-228945584ade",
+      "version": [1, 0, 1]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "1123a61f-485b-442d-a42e-7bb62b47edef",
+      "version": [1, 0, 1]
+    }
+  ]
+}

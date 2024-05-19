@@ -1,0 +1,8 @@
+{
+  "resource_pack_name": "S'mores Resource Pack",
+  "texture_data": {
+    "matthewtodd:graham_cracker": {
+      "textures": "textures/items/graham_cracker"
+    }
+  }
+}
