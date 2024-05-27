@@ -4,7 +4,7 @@
     "description": "S'mores Resource Pack",
     "name": "S'mores Resource Pack",
     "uuid": "1123a61f-485b-442d-a42e-7bb62b47edef",
-    "version": [1, 0, 1],
+    "version": [0, 0, 1],
     "min_engine_version": [1, 20, 30]
   },
   "modules": [
@@ -12,7 +12,7 @@
       "description": "S'mores Resource Pack",
       "type": "resources",
       "uuid": "6079f9e7-556b-42d1-bd07-3a5e875168a8",
-      "version": [1, 0, 1]
+      "version": [0, 0, 1]
     }
   ]
 }
